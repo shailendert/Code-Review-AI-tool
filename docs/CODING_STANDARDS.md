@@ -143,20 +143,7 @@ To maintain a clean, readable, and maintainable codebase, we follow a set of cod
 
 By following these coding standards, we ensure that our codebase remains clean, maintainable, and scalable. Thank you for your contributions to this project, and for following these guidelines to help us create great software!
 
----
-
-### How to Add This to Your GitHub Repository:
-
-1. **Create a New File:**
-   - In your GitHub repository, click the **Add file** button and select **Create new file**.
-   - Name the file `CODING_STANDARDS.md`.
-
-2. **Copy and Paste the Text:**
-   - Copy the content above and paste it into the newly created `CODING_STANDARDS.md` file.
-
-3. **Commit the File:**
-   - Add a commit message like `docs: add coding standards`.
-   - Click **Commit new file** to save it in your repository.
+Please follow the guides in [Templates]docs/Templates folder for template for creating Issues or PRs.
 
 This guide will help contributors to the project write high-quality, consistent code. I would also try to maintain it myself.
 Any suggestion for the improvement of Coding standards are welcome!
