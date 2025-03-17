@@ -143,7 +143,7 @@ To maintain a clean, readable, and maintainable codebase, we follow a set of cod
 
 By following these coding standards, we ensure that our codebase remains clean, maintainable, and scalable. Thank you for your contributions to this project, and for following these guidelines to help us create great software!
 
-Please follow the guides in [Templates](docs/Templates) folder for template for creating Issues or PRs.
+Please follow the guides in [Templates](Templates) folder for template for creating Issues or PRs.
 
 This guide will help contributors to the project write high-quality, consistent code. I would also try to maintain it myself.
 Any suggestion for the improvement of Coding standards are welcome!
