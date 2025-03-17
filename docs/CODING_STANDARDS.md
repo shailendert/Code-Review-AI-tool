@@ -159,3 +159,4 @@ By following these coding standards, we ensure that our codebase remains clean, 
    - Click **Commit new file** to save it in your repository.
 
 This guide will help contributors to the project write high-quality, consistent code. I would also try to maintain it myself.
+Any suggestion for the improvement of Coding standards are welcome!
